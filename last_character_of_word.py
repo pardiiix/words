@@ -10,4 +10,4 @@ E-mail: pardis.ranjbar@gmail.com
 """
 word=input('enter the word:\n')
 word_size=len(word)
-print(word[word_size-1])
+print(word[word_size-1])  #or print(word[-1])
